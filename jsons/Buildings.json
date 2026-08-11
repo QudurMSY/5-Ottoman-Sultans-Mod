@@ -1,7 +1,7 @@
 [
   {
     "name": "Cebhane-i Hümayun",
-    "uniqueTo": "Ottoman Empire (Selim I)",
+    "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Armory",
     "cost": 130,
     "uniques": [
@@ -11,7 +11,7 @@
   },
   {
     "name": "Tophane-i Amire",
-    "uniqueTo": "Ottoman Empire (Mehmed II)",
+    "uniqueTo": "Ottoman Empire - Mehmed II",
     "replaces": "Workshop",
     "cost": 120,
     "uniques": [
@@ -22,7 +22,7 @@
   },
   {
     "name": "Hasbahçe",
-    "uniqueTo": "Ottoman Empire (Suleiman I)",
+    "uniqueTo": "Ottoman Empire - Suleiman I",
     "replaces": "Garden",
     "cost": 120,
     "uniques": [
@@ -32,7 +32,7 @@
   },
   {
     "name": "Mühendishane-i Berrî-i Hümâyûn",
-    "uniqueTo": "Ottoman Empire (Selim III)",
+    "uniqueTo": "Ottoman Empire - Selim III",
     "replaces": "University",
     "cost": 160,
     "uniques": [
@@ -44,7 +44,7 @@
   },
   {
     "name": "Bayezid Külliyesi",
-    "uniqueTo": "Ottoman Empire (Bayezid II)",
+    "uniqueTo": "Ottoman Empire - Bayezid II",
     "replaces": "Temple",
     "cost": 100,
     "uniques": [
