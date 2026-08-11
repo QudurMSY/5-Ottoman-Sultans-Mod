@@ -7,9 +7,9 @@
     "cost": 120,
     "requiredTech": "Chivalry",
     "uniques": [
+      "No defensive terrain penalty",
       "Ignores terrain cost",
-      "No movement cost to pillage",
-      "No defensive terrain penalty"
+      "No movement cost to pillage"
     ]
   },
   {
@@ -24,8 +24,8 @@
     "movement": 1,
     "range": 3,
     "uniques": [
-      "[+200]% Strength <vs cities>",
-      "Must set up to ranged attack"
+      "Must set up to ranged attack",
+      "[+200]% Strength <vs cities>"
     ]
   },
   {
@@ -61,8 +61,8 @@
     "movement": 5,
     "religionSpreads": 3,
     "uniques": [
-      "Great Person - [Religion]",
-      "Can spread religion"
+      "Can spread religion",
+      "Great Person - [Religion]"
     ]
   }
 ]

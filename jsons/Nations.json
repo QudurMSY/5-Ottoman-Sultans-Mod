@@ -20,7 +20,6 @@
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
       "[+1] Movement <for [Military] units>",
-      "[-33]% maintenance costs <for [Military] units>",
       "[+10]% Production when constructing [Military] units [in all cities]",
       "Warmonger",
       "Expansionist"
@@ -46,9 +45,9 @@
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Sahn-ı Seman",
     "uniques": [
-      "[+1 Science] per [2] population [in all cities]",
-      "[Great Scientist] is earned [50]% faster",
-      "[Great Engineer] is earned [50]% faster",
+      "[+1 Science] per [3] population [in all cities]",
+      "[Great Scientist] is earned [30]% faster",
+      "[Great Engineer] is earned [30]% faster",
       "Scientific",
       "Expansionist"
     ]
@@ -73,8 +72,8 @@
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Magnificent Century",
     "uniques": [
-      "[+100]% Golden Age length",
-      "[+50]% [Culture] <during a Golden Age>",
+      "[+50]% Golden Age length",
+      "[+30]% [Culture] <during a Golden Age>",
       "[Great Artist] is earned [25]% faster",
       "Cultured",
       "Diplomatic"
@@ -100,8 +99,8 @@
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Permanent Embassies",
     "uniques": [
-      "Resting point for Influence with City-States is increased by [30]",
-      "[-75]% City-State Influence degradation",
+      "Resting point for Influence with City-States is increased by [10]",
+      "[-50]% City-State Influence degradation",
       "Diplomatic",
       "Civilized"
     ]
@@ -126,8 +125,7 @@
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Judicial Tolerance",
     "uniques": [
-      "[+50]% [Faith]",
-      "[+25]% [Culture]",
+      "[+25]% [Faith]",
       "Cultured",
       "Religious"
     ]
