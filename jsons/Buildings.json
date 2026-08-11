@@ -1,6 +1,6 @@
 [
   {
-    "name": "Cebhane-i Hümayun",
+    "name": "Cebhane-i Humayun",
     "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Armory",
     "cost": 130,
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "name": "Hasbahçe",
+    "name": "Hasbahce",
     "uniqueTo": "Ottoman Empire - Suleiman I",
     "replaces": "Garden",
     "cost": 120,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "Mühendishane-i Berrî-i Hümâyûn",
+    "name": "Muhendishane-i Berri-i Humayun",
     "uniqueTo": "Ottoman Empire - Selim III",
     "replaces": "University",
     "cost": 160,
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "name": "Bayezid Külliyesi",
+    "name": "Bayezid Kulliyesi",
     "uniqueTo": "Ottoman Empire - Bayezid II",
     "replaces": "Temple",
     "cost": 100,
