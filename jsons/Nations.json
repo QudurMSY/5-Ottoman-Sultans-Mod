@@ -20,6 +20,8 @@
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
       "[+1] Movement <for [Military] units>",
+      "[-25]% Resistance length when capturing cities",
+      "[50]% less population lost when capturing cities",
       "[+10]% Production when constructing [Military] units [in all cities]",
       "Warmonger",
       "Expansionist"
@@ -46,8 +48,8 @@
     "uniqueName": "Sahn-ı Seman",
     "uniques": [
       "[+1 Science] per [3] population [in all cities]",
-      "[Great Scientist] is earned [30]% faster",
-      "[Great Engineer] is earned [30]% faster",
+      "[+30]% Great Person Generation <for [Great Scientist] units>",
+      "[+30]% Great Person Generation <for [Great Engineer] units>",
       "Scientific",
       "Expansionist"
     ]
@@ -126,6 +128,7 @@
     "uniqueName": "Judicial Tolerance",
     "uniques": [
       "[+25]% [Faith]",
+      "[+1 Happiness] per city following your religion",
       "Cultured",
       "Religious"
     ]

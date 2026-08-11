@@ -7,9 +7,9 @@
     "cost": 120,
     "requiredTech": "Chivalry",
     "uniques": [
-      "No defensive terrain penalty",
       "Ignores terrain cost",
-      "No movement cost to pillage"
+      "No movement cost to pillage",
+      "No defensive terrain penalty"
     ]
   },
   {
@@ -19,8 +19,8 @@
     "unitType": "Siege",
     "cost": 185,
     "requiredTech": "Chemistry",
-    "strength": 12,
-    "rangedStrength": 26,
+    "strength": 14,
+    "rangedStrength": 30,
     "movement": 1,
     "range": 3,
     "uniques": [
@@ -61,8 +61,7 @@
     "movement": 5,
     "religionSpreads": 3,
     "uniques": [
-      "Can spread religion",
-      "Great Person - [Religion]"
+      "Can spread religion"
     ]
   }
 ]
