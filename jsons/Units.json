@@ -3,6 +3,7 @@
     "name": "Timarli Sipahi",
     "uniqueTo": "Ottoman Empire (Selim I)",
     "replaces": "Knight",
+    "unitType": "Mounted",
     "uniques": [
       "Ignores terrain cost",
       "No movement cost to pillage"
@@ -12,6 +13,7 @@
     "name": "Şahi Cannon",
     "uniqueTo": "Ottoman Empire (Mehmed II)",
     "replaces": "Cannon",
+    "unitType": "Siege",
     "strength": 12,
     "rangedStrength": 26,
     "movement": 1,
@@ -25,6 +27,7 @@
     "name": "Mehteran",
     "uniqueTo": "Ottoman Empire (Suleiman I)",
     "replaces": "Great General",
+    "unitType": "Civilian",
     "uniques": [
       "[+15]% Strength bonus for [Military] units within [1] tiles",
       "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
@@ -34,6 +37,7 @@
     "name": "Hariciye Envoy",
     "uniqueTo": "Ottoman Empire (Selim III)",
     "replaces": "Great Merchant",
+    "unitType": "Civilian",
     "uniques": [
       "[+100]% Gold from Great Merchant trade missions",
       "Can undertake a trade mission in City-State territory"
@@ -43,6 +47,7 @@
     "name": "Veli",
     "uniqueTo": "Ottoman Empire (Bayezid II)",
     "replaces": "Missionary",
+    "unitType": "Civilian",
     "movement": 5,
     "religionSpreads": 3,
     "uniques": [
