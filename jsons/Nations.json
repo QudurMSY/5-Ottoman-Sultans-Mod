@@ -20,7 +20,10 @@
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
       "[+1] Movement <for [Military] units>",
-      "[-33]% maintenance costs <for [Military] units>"
+      "[-33]% maintenance costs <for [Military] units>",
+      "[+100]% weight to [Military] for AI decisions",
+      "[+50]% weight to [Melee] for AI decisions",
+      "[+10]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -45,7 +48,9 @@
     "uniques": [
       "[+1 Science] per [2] population [in all cities]",
       "[Great Scientist] is earned [50]% faster",
-      "[Great Engineer] is earned [50]% faster"
+      "[Great Engineer] is earned [50]% faster",
+      "[+100]% weight to [Science] for AI decisions",
+      "[+50]% weight to [Siege] for AI decisions"
     ]
   },
   {
@@ -70,7 +75,8 @@
     "uniques": [
       "[+100]% Golden Age length",
       "[+50]% [Culture] <during a Golden Age>",
-      "[-100]% City-State Influence degradation <during a Golden Age>"
+      "[Great Artist] is earned [25]% faster",
+      "[+100]% weight to [Culture] for AI decisions"
     ]
   },
   {
@@ -94,7 +100,8 @@
     "uniqueName": "Permanent Embassies",
     "uniques": [
       "Resting point for Influence with City-States is increased by [30]",
-      "[-75]% City-State Influence degradation"
+      "[-75]% City-State Influence degradation",
+      "[+100]% weight to [Gold] for AI decisions"
     ]
   },
   {
@@ -118,7 +125,8 @@
     "uniqueName": "Judicial Tolerance",
     "uniques": [
       "[+50]% [Faith]",
-      "[+25]% [Culture]"
+      "[+25]% [Culture]",
+      "[+100]% weight to [Faith] for AI decisions"
     ]
   }
 ]

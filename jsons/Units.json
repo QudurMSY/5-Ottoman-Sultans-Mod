@@ -8,7 +8,8 @@
     "requiredTech": "Chivalry",
     "uniques": [
       "Ignores terrain cost",
-      "No movement cost to pillage"
+      "No movement cost to pillage",
+      "No defensive terrain penalty"
     ]
   },
   {
@@ -33,6 +34,7 @@
     "replaces": "Great General",
     "unitType": "Civilian",
     "uniques": [
+      "Great Person - [War]",
       "[+15]% Strength bonus for [Military] units within [1] tiles",
       "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
     ]
@@ -43,6 +45,7 @@
     "replaces": "Great Merchant",
     "unitType": "Civilian",
     "uniques": [
+      "Great Person - [Trade]",
       "[+100]% Gold from Great Merchant trade missions",
       "Can undertake a trade mission in City-State territory"
     ]

@@ -6,7 +6,7 @@
     "requiredTech": "Steel",
     "cost": 130,
     "uniques": [
-      "New [Military] units start with [15] XP [in this city]",
+      "[15] XP for new [Military] units",
       "[-15]% maintenance costs <for [Military] units>"
     ]
   },
@@ -19,6 +19,7 @@
     "science": 1,
     "production": 2,
     "uniques": [
+      "[+10]% Production [in this city]",
       "[+30]% Production when constructing [Siege] units [in this city]"
     ]
   },
@@ -43,7 +44,8 @@
     "science": 2,
     "uniques": [
       "New [Water] units start with [15] XP [in this city]",
-      "[+33]% [Science] [in this city]"
+      "[+33]% [Science] [in this city]",
+      "[+2 Science] from [Jungle] tiles [in this city]"
     ]
   },
   {
