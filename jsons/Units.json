@@ -1,7 +1,7 @@
 [
   {
     "name": "Timarli Sipahi",
-    "uniqueTo": "Ottoman Empire (Selim I)",
+    "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Knight",
     "unitType": "Mounted",
     "uniques": [
@@ -11,7 +11,7 @@
   },
   {
     "name": "Şahi Cannon",
-    "uniqueTo": "Ottoman Empire (Mehmed II)",
+    "uniqueTo": "Ottoman Empire - Mehmed II",
     "replaces": "Cannon",
     "unitType": "Siege",
     "strength": 12,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Mehteran",
-    "uniqueTo": "Ottoman Empire (Suleiman I)",
+    "uniqueTo": "Ottoman Empire - Suleiman I",
     "replaces": "Great General",
     "unitType": "Civilian",
     "uniques": [
@@ -35,7 +35,7 @@
   },
   {
     "name": "Hariciye Envoy",
-    "uniqueTo": "Ottoman Empire (Selim III)",
+    "uniqueTo": "Ottoman Empire - Selim III",
     "replaces": "Great Merchant",
     "unitType": "Civilian",
     "uniques": [
@@ -45,7 +45,7 @@
   },
   {
     "name": "Veli",
-    "uniqueTo": "Ottoman Empire (Bayezid II)",
+    "uniqueTo": "Ottoman Empire - Bayezid II",
     "replaces": "Missionary",
     "unitType": "Civilian",
     "movement": 5,
