@@ -36,7 +36,7 @@
     "uniques": [
       "[+50]% Golden Age length",
       "[+30]% [Culture] <during a Golden Age>",
-      "Influence with City-States degrades [50]% slower <during a Golden Age>"
+      "[-50]% City-State Influence degradation <during a Golden Age>"
     ]
   },
   {
@@ -49,7 +49,7 @@
     "uniqueName": "Permanent Embassies",
     "uniques": [
       "Resting point for Influence with City-States is increased by [10]",
-      "Influence with City-States degrades [50]% slower"
+      "[-50]% City-State Influence degradation"
     ]
   },
   {
