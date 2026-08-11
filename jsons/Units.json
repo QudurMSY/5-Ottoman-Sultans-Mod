@@ -4,8 +4,8 @@
     "uniqueTo": "Ottoman Empire (Selim I)",
     "replaces": "Knight",
     "uniques": [
-      "Can move at full speed on rough terrain",
-      "Pillaging tiles costs no movement points"
+      "Ignores terrain cost",
+      "No movement cost to pillage"
     ]
   },
   {
@@ -26,8 +26,8 @@
     "uniqueTo": "Ottoman Empire (Suleiman I)",
     "replaces": "Great General",
     "uniques": [
-      "[+15]% Strength <for [Military] units> <in tiles adjacent to this unit>",
-      "Earn [50]% of killed unit's [Strength] as [Culture]"
+      "[+15]% Strength bonus for [Military] units within [1] tiles",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
     ]
   },
   {
@@ -35,7 +35,7 @@
     "uniqueTo": "Ottoman Empire (Selim III)",
     "replaces": "Great Merchant",
     "uniques": [
-      "Gains extra gold and influence when conducting a trade mission",
+      "[+100]% Gold from Great Merchant trade missions",
       "Can undertake a trade mission in City-State territory"
     ]
   },

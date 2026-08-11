@@ -171,3 +171,5 @@ To verify the mod does not cause game-breaking crashes or NullPointerExceptions:
    - Enable "Spectator / Autoplay" mode and set turn speed to maximum.
 2. Simulate at least 100 turns automatically.
 3. Confirm that buildings can be constructed, units can be trained, and unique abilities execute without crashing the game engine.
+
+Yeah you are right, git is installed!
