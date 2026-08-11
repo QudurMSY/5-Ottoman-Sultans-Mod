@@ -1,59 +1,110 @@
-# 🌙 Welcome to the Ottoman Sultans Mod for Unciv! 🕌
+# Ottoman Sultans Mod
 
-Welcome to the **5 Ottoman Sultans Mod**, an expansive and immersive modification for Unciv that brings the glory, culture, and power of the Ottoman Empire straight into your hands. 
+Welcome to the Ottoman Sultans Mod for Unciv! This mod introduces 5 distinct eras of the Ottoman Empire, each led by a different historical Sultan with a unique playstyle, set of personality traits, and custom abilities.
 
-Whether you are seeking to conquer the world through military might, advance through unparalleled scientific discovery, create an enduring cultural legacy, master the art of diplomacy, or spread your faith across the globe, this mod offers a unique experience tailored to your preferred playstyle. Step into the shoes of one of five legendary Sultans and guide your empire to eternal greatness!
+## The Sultans
 
----
+### 1. Ottoman Empire - Selim I
+**Playstyle:** Domination
+**Personality:** Warmonger, Expansionist
+**Traits (Conquests of Eight Years):**
+- `[+1] Movement <for [Military] units>`
+- `[+10]% Production when constructing [Military] units [in all cities]`
 
-## 👑 The 5 Playable Sultans
+### 2. Ottoman Empire - Mehmed II
+**Playstyle:** Scientific
+**Personality:** Scientific, Expansionist
+**Traits (Sahn-ı Seman):**
+- `[+1 Science] per [3] population [in all cities]`
+- `[Great Scientist] is earned [30]% faster`
+- `[Great Engineer] is earned [30]% faster`
 
-This mod introduces five of the most iconic Ottoman Sultans, each meticulously designed to excel in a different victory condition.
+### 3. Ottoman Empire - Suleiman I
+**Playstyle:** Cultural
+**Personality:** Cultured, Diplomatic
+**Traits (Magnificent Century):**
+- `[+50]% Golden Age length`
+- `[+30]% [Culture] <during a Golden Age>`
+- `[Great Artist] is earned [25]% faster`
 
-- **⚔️ Selim I (Yavuz Sultan Selim)**
-  - **Playstyle:** Domination
-  - **Description:** Known as "Selim the Resolute," he expanded the empire's borders drastically. His playstyle is built around aggressive expansion, unmatched military logistics, and overwhelming your enemies with a highly disciplined army.
+### 4. Ottoman Empire - Selim III
+**Playstyle:** Diplomatic
+**Personality:** Diplomatic, Civilized
+**Traits (Permanent Embassies):**
+- `Resting point for Influence with City-States is increased by [10]`
+- `[-50]% City-State Influence degradation`
 
-- **🔬 Mehmed II (Fatih Sultan Mehmed)**
-  - **Playstyle:** Science
-  - **Description:** The great conqueror of Constantinople was also a patron of science, arts, and innovation. Play as Mehmed II to leverage technological superiority, siege engineering, and rapid scientific advancement.
-
-- **🎨 Suleiman I (Kanuni Sultan Süleyman)**
-  - **Playstyle:** Culture
-  - **Description:** "Suleiman the Magnificent" oversaw the golden age of the Ottoman Empire's culture, law, and arts. Focus on generating massive cultural output, building breathtaking wonders, and achieving cultural dominance over other civilizations.
-
-- **🤝 Selim III**
-  - **Playstyle:** Diplomacy
-  - **Description:** A reformist ruler who sought to modernize the state and establish permanent embassies abroad. Use Selim III's diplomatic acumen to forge strong alliances, control the World Congress, and secure a diplomatic victory.
-
-- **🕌 Bayezid II**
-  - **Playstyle:** Faith
-  - **Description:** Often referred to as "Bayezid the Just" or "Bayezid the Saint," he was deeply religious and focused on domestic stability. His playstyle revolves around rapid religious expansion, faith generation, and establishing a dominant world religion.
-
----
-
-## 🛡️ Unique Units
-
-To aid your path to victory, each Sultan brings specialized units to the battlefield, replacing standard units with powerful Ottoman variants:
-
-- **🐎 Timarlı Sipahi:** A formidable mounted unit representing the backbone of the Ottoman cavalry. Excellent for quick strikes and maintaining control over vast territories.
-- **💣 Şahi Cannon:** A massive, devastating siege weapon designed to shatter the strongest city walls. Perfect for breaking deadlocks in prolonged sieges.
-- **🥁 Mehteran:** The traditional Ottoman military band. They inspire surrounding troops, boosting their combat effectiveness and morale during critical battles.
-- **📜 Hariciye Envoy:** A specialized diplomatic unit that excels at securing favor with City-States and rival nations, crucial for maintaining diplomatic leverage.
-- **📿 Veli:** A revered religious figure whose presence strengthens your faith output and aids in the rapid spread of your religion across borders.
+### 5. Ottoman Empire - Bayezid II
+**Playstyle:** Cultural/Faith
+**Personality:** Cultured, Religious
+**Traits (Judicial Tolerance):**
+- `[+25]% [Faith]`
 
 ---
 
-## 🏛️ Unique Buildings
+## Unique Buildings
 
-Develop your cities with historical and powerful Ottoman infrastructure:
+### Cebhane-i Hümayun *(Replaces Armory)*
+**Stats:**
+- `15 XP for new [Military] units` (Base Armory Trait)
+- `New [Military] units start with [15] XP [in this city]` (Stacks for a total of +30 XP!)
+- `[-15]% maintenance costs <for [Military] units>`
 
-- **🗡️ Cebhane-i Hümayun (Imperial Armory):** Enhances the production and starting experience of your military units, ensuring your armies are always ready for war.
-- **🏭 Tophane-i Amire (Imperial Cannon Foundry):** Greatly boosts the production of siege units and provides defensive bonuses to your cities.
-- **🌷 Hasbahçe (Imperial Gardens):** A breathtaking cultural and recreational building that significantly increases the culture and happiness of your citizens.
-- **📐 Mühendishane-i Berrî-i Hümâyûn (Imperial School of Naval Engineering):** A hub of scientific progress that boosts the science output of the city and helps train specialized units.
-- **🏥 Bayezid Külliyesi:** A massive religious and social complex that generates a large amount of faith and provides essential services to the local populace.
+### Tophane-i Amire *(Replaces Workshop)*
+**Stats:**
+- `+4 Production` (+2 Base, +2 Custom)
+- `+1 Science`
+- `[+10]% Production [in this city]` (Base Workshop Trait)
+- `[+30]% Production when constructing [Siege] units [in this city]`
+
+### Hasbahçe *(Replaces Garden)*
+**Stats:**
+- `+3 Culture`
+- `[+25]% Great Person generation [in this city]` (Base Garden Trait)
+
+### Mühendishane-i Berrî-i Hümâyûn *(Replaces University)*
+**Stats:**
+- `+2 Culture`, `+2 Science`
+- `[+33]% [Science] [in this city]` (Base University Trait)
+- `[+2 Science] from [Jungle] tiles [in this city]` (Base University Trait)
+- `New [Water] units start with [15] XP [in this city]`
+
+### Bayezid Külliyesi *(Replaces Temple)*
+**Stats:**
+- `+7 Faith` (+2 Base, +5 Custom)
+- `+2 Food`
+- `+1 Culture`
 
 ---
 
-*Prepare your strategies, gather your armies, and write your own chapter in the history of the Ottoman Empire. We hope you enjoy playing the Ottoman Sultans Mod!*
+## Unique Units
+
+### Timarli Sipahi *(Replaces Knight)*
+**Stats:**
+- `Ignores terrain cost`
+- `No movement cost to pillage`
+- `No defensive terrain penalty` (Base Knight Trait)
+
+### Şahi Cannon *(Replaces Cannon)*
+**Stats:**
+- `12 Strength`, `26 Ranged Strength`, `Range 3`
+- `[+200]% Strength <vs cities>`
+- `Must set up to ranged attack`
+
+### Mehteran *(Replaces Great General)*
+**Stats:**
+- Functions as a standard Great General (`Invisible to non-adjacent units`).
+- `[+15]% Strength bonus for [Military] units within [1] tiles`
+- `Earn [50]% of killed [Military] unit's [Strength] as [Culture]`
+
+### Hariciye Envoy *(Replaces Great Merchant)*
+**Stats:**
+- Functions as a standard Great Merchant.
+- `[+100]% Gold from Great Merchant trade missions`
+- `Can undertake a trade mission in City-State territory`
+
+### Veli *(Replaces Missionary)*
+**Stats:**
+- Functions as a standard Missionary (`Can spread religion`).
+- `Movement: 5`
+- `Religion Spreads: 3`
