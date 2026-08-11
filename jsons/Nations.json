@@ -20,11 +20,11 @@
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
       "[+1] Movement <for [Military] units>",
-      "[-25]% Resistance length when capturing cities",
-      "[50]% less population lost when capturing cities",
+      "Free [Courthouse] appears in captured cities",
+      "Free [Aqueduct] appears in captured cities",
       "[+10]% Production when constructing [Military] units [in all cities]",
-      "Warmonger",
-      "Expansionist"
+      "[+100]% weight to [Military] for AI decisions",
+      "[+100]% weight to [Expansion] for AI decisions"
     ]
   },
   {
@@ -50,8 +50,8 @@
       "[+1 Science] per [3] population [in all cities]",
       "[+30]% Great Person Generation <for [Great Scientist] units>",
       "[+30]% Great Person Generation <for [Great Engineer] units>",
-      "Scientific",
-      "Expansionist"
+      "[+100]% weight to [Science] for AI decisions",
+      "[+100]% weight to [Expansion] for AI decisions"
     ]
   },
   {
@@ -77,8 +77,8 @@
       "[+50]% Golden Age length",
       "[+30]% [Culture] <during a Golden Age>",
       "[Great Artist] is earned [25]% faster",
-      "Cultured",
-      "Diplomatic"
+      "[+100]% weight to [Culture] for AI decisions",
+      "[+100]% weight to [Diplomacy] for AI decisions"
     ]
   },
   {
@@ -103,8 +103,8 @@
     "uniques": [
       "Resting point for Influence with City-States is increased by [10]",
       "[-50]% City-State Influence degradation",
-      "Diplomatic",
-      "Civilized"
+      "[+100]% weight to [Diplomacy] for AI decisions",
+      "[+100]% weight to [Economy] for AI decisions"
     ]
   },
   {
@@ -129,8 +129,8 @@
     "uniques": [
       "[+25]% [Faith]",
       "[+1 Happiness] per city following your religion",
-      "Cultured",
-      "Religious"
+      "[+100]% weight to [Culture] for AI decisions",
+      "[+100]% weight to [Religion] for AI decisions"
     ]
   }
 ]
