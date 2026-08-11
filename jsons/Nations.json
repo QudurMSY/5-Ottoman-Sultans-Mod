@@ -20,10 +20,9 @@
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
       "[+1] Movement <for [Military] units>",
-      "Gain a free [Courthouse] [in annexed cities]",
-      "Gain a free [Aqueduct] [in annexed cities]",
-      "[+10]% Production when constructing [Military] units [in all cities]",
-      "[+100]% weight to [Military] units for AI decisions"
+      "[40]% Food is carried over after population increases [in all cities]",
+      "[-50]% unhappiness from the number of cities",
+      "[+10]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -47,9 +46,8 @@
     "uniqueName": "Sahn-ı Seman",
     "uniques": [
       "[+1 Science] per [3] population [in all cities]",
-      "[Great Scientist] is earned [30]% faster",
-      "[Great Engineer] is earned [30]% faster",
-      "[+100]% weight to [Science] buildings for AI decisions"
+      "[Great Scientist] is earned [+30]% faster",
+      "[Great Engineer] is earned [+30]% faster"
     ]
   },
   {
@@ -74,8 +72,7 @@
     "uniques": [
       "[+50]% Golden Age length",
       "[+30]% [Culture] <during a Golden Age>",
-      "[Great Artist] is earned [25]% faster",
-      "[+100]% weight to [Culture] buildings for AI decisions"
+      "[Great Artist] is earned [25]% faster"
     ]
   },
   {
@@ -99,8 +96,7 @@
     "uniqueName": "Permanent Embassies",
     "uniques": [
       "Resting point for Influence with City-States is increased by [10]",
-      "[-50]% City-State Influence degradation",
-      "[+100]% weight to [Gold] buildings for AI decisions"
+      "[-50]% City-State Influence degradation"
     ]
   },
   {
@@ -124,9 +120,7 @@
     "uniqueName": "Judicial Tolerance",
     "uniques": [
       "[+25]% [Faith]",
-      "[+1 Happiness] for each city following this religion",
-      "[+100]% weight to [Culture] buildings for AI decisions",
-      "[+100]% weight to [Faith] buildings for AI decisions"
+      "[+1 Happiness] [in all cities] <in cities following our religion>"
     ]
   }
 ]
