@@ -3,10 +3,14 @@
     "name": "Cebhane-i Hümayun",
     "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Armory",
-    "requiredTech": "Steel",
     "cost": 130,
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "requiredBuilding": "Barracks",
+    "requiredTech": "Steel",
     "uniques": [
       "New [Military] units start with [15] XP [in this city]",
+      "Destroyed when the city is captured",
       "[-15]% maintenance costs <for [Military] units>"
     ]
   },
@@ -14,10 +18,14 @@
     "name": "Tophane-i Amire",
     "uniqueTo": "Ottoman Empire - Mehmed II",
     "replaces": "Workshop",
-    "requiredTech": "Metal Casting",
     "cost": 120,
-    "science": 1,
+    "maintenance": 2,
     "production": 2,
+    "science": 1,
+    "specialistSlots": {"Engineer": 1},
+    "hurryCostModifier": 25,
+    "percentStatBonus": {"production": 10},
+    "requiredTech": "Metal Casting",
     "uniques": [
       "[+30]% Production when constructing [Siege] units [in this city]"
     ]
@@ -26,8 +34,10 @@
     "name": "Hasbahçe",
     "uniqueTo": "Ottoman Empire - Suleiman I",
     "replaces": "Garden",
-    "requiredTech": "Theology",
     "cost": 120,
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "requiredTech": "Theology",
     "culture": 3,
     "uniques": [
       "[+25]% Great Person generation [in this city]"
@@ -37,23 +47,35 @@
     "name": "Mühendishane-i Berrî-i Hümâyûn",
     "uniqueTo": "Ottoman Empire - Selim III",
     "replaces": "University",
-    "requiredTech": "Education",
     "cost": 160,
+    "maintenance": 2,
+    "hurryCostModifier": 15,
+    "percentStatBonus": {"science": 33},
+    "specialistSlots": {"Scientist": 2},
+    "requiredBuilding": "Library",
+    "requiredTech": "Education",
     "culture": 2,
     "science": 2,
     "uniques": [
-      "New [Water] units start with [15] XP [in this city]",
-      "[+33]% [Science] [in this city]"
+      "[+2 Science] from [Jungle] tiles [in this city]",
+      "New [Water] units start with [15] XP [in this city]"
     ]
   },
   {
     "name": "Bayezid Külliyesi",
     "uniqueTo": "Ottoman Empire - Bayezid II",
     "replaces": "Temple",
-    "requiredTech": "Philosophy",
     "cost": 100,
     "faith": 5,
     "food": 2,
-    "culture": 1
+    "culture": 1,
+    "requiredBuilding": "Shrine",
+    "maintenance": 2,
+    "hurryCostModifier": 25,
+    "requiredTech": "Philosophy",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Destroyed when the city is captured"
+    ]
   }
 ]

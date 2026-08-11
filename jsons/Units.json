@@ -4,9 +4,18 @@
     "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Knight",
     "unitType": "Mounted",
+    "movement": 3,
+    "strength": 18,
     "cost": 120,
     "requiredTech": "Chivalry",
+    "obsoleteTech": "Military Science",
+    "upgradesTo": "Cavalry",
+    "requiredResource": "Horses",
     "uniques": [
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "[-33]% Strength <vs cities> <when attacking>",
+      "Never appears as a Barbarian unit",
       "Ignores terrain cost",
       "No movement cost to pillage"
     ]
@@ -16,15 +25,19 @@
     "uniqueTo": "Ottoman Empire - Mehmed II",
     "replaces": "Cannon",
     "unitType": "Siege",
+    "movement": 1,
+    "strength": 14,
+    "rangedStrength": 30,
     "cost": 185,
     "requiredTech": "Chemistry",
-    "strength": 12,
-    "rangedStrength": 26,
-    "movement": 1,
-    "range": 3,
+    "upgradesTo": "Artillery",
+    "obsoleteTech": "Dynamite",
     "uniques": [
-      "[+200]% Strength <vs cities>",
-      "Must set up to ranged attack"
+      "[+200]% Strength <vs cities> <when attacking>",
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[-1] Sight",
+      "Never appears as a Barbarian unit"
     ]
   },
   {
@@ -32,7 +45,15 @@
     "uniqueTo": "Ottoman Empire - Suleiman I",
     "replaces": "Great General",
     "unitType": "Civilian",
+    "movement": 2,
     "uniques": [
+      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+      "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+      "Can be earned through combat",
+      "Is part of Great Person group [General]",
+      "Great Person - [War]",
+      "Unbuildable",
+      "Uncapturable",
       "[+15]% Strength bonus for [Military] units within [1] tiles",
       "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
     ]
@@ -42,9 +63,16 @@
     "uniqueTo": "Ottoman Empire - Selim III",
     "replaces": "Great Merchant",
     "unitType": "Civilian",
+    "movement": 2,
     "uniques": [
+      "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+      "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+      "Is part of Great Person group [Merchant]",
+      "Great Person - [Gold]",
+      "Unbuildable",
+      "Uncapturable",
       "[+100]% Gold from Great Merchant trade missions",
-      "Can undertake a trade mission in City-State territory"
+      "[+20] Influence from Trade Missions"
     ]
   },
   {
@@ -52,12 +80,18 @@
     "uniqueTo": "Ottoman Empire - Bayezid II",
     "replaces": "Missionary",
     "unitType": "Civilian",
+    "movement": 5,
     "cost": 200,
     "costType": "Faith",
-    "movement": 5,
-    "religionSpreads": 3,
+    "religiousStrength": 1000,
     "uniques": [
-      "Can spread religion"
+      "Can Spread Religion <for [4] movement> <[3] times> <after which this unit is consumed>",
+      "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+      "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+      "[-1] Sight",
+      "Unbuildable",
+      "Religious Unit",
+      "Only available <when religion is enabled>"
     ]
   }
 ]
