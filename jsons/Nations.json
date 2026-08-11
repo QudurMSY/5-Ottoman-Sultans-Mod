@@ -14,12 +14,13 @@
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "We propose a trade.",
-    "outerColor": [0, 150, 0],
+    "outerColor": [180, 0, 0],
     "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
-      "[+1] Movement <for [Military] units>"
+      "[+1] Movement <for [Military] units>",
+      "[-33]% maintenance costs <for [Military] units>"
     ]
   },
   {
@@ -37,14 +38,14 @@
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "We propose a trade.",
-    "outerColor": [0, 150, 0],
+    "outerColor": [0, 0, 180],
     "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Sahn-ı Seman",
     "uniques": [
-      "[+1 Science] per [3] population [in all cities]",
-      "[Great Scientist] is earned [30]% faster",
-      "[Great Engineer] is earned [30]% faster"
+      "[+1 Science] per [2] population [in all cities]",
+      "[Great Scientist] is earned [50]% faster",
+      "[Great Engineer] is earned [50]% faster"
     ]
   },
   {
@@ -62,14 +63,14 @@
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "We propose a trade.",
-    "outerColor": [0, 150, 0],
+    "outerColor": [128, 0, 128],
     "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Magnificent Century",
     "uniques": [
-      "[+50]% Golden Age length",
-      "[+30]% [Culture] <during a Golden Age>",
-      "[-50]% City-State Influence degradation <during a Golden Age>"
+      "[+100]% Golden Age length",
+      "[+50]% [Culture] <during a Golden Age>",
+      "[-100]% City-State Influence degradation <during a Golden Age>"
     ]
   },
   {
@@ -87,13 +88,13 @@
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "We propose a trade.",
-    "outerColor": [0, 150, 0],
+    "outerColor": [0, 180, 180],
     "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Permanent Embassies",
     "uniques": [
-      "Resting point for Influence with City-States is increased by [10]",
-      "[-50]% City-State Influence degradation"
+      "Resting point for Influence with City-States is increased by [30]",
+      "[-75]% City-State Influence degradation"
     ]
   },
   {
@@ -111,12 +112,13 @@
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "We propose a trade.",
-    "outerColor": [0, 150, 0],
+    "outerColor": [180, 180, 0],
     "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Judicial Tolerance",
     "uniques": [
-      "[+25]% [Faith]"
+      "[+50]% [Faith]",
+      "[+25]% [Culture]"
     ]
   }
 ]
