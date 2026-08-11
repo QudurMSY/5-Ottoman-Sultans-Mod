@@ -3,6 +3,8 @@
     "name": "Ottoman Empire (Selim I)",
     "leaderName": "Selim I (The Grim)",
     "adjective": ["Ottoman"],
+    "outerColor": [0, 150, 0],
+    "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
@@ -15,6 +17,8 @@
     "name": "Ottoman Empire (Mehmed II)",
     "leaderName": "Mehmed II (The Conqueror)",
     "adjective": ["Ottoman"],
+    "outerColor": [0, 150, 0],
+    "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Sahn-ı Seman",
     "uniques": [
@@ -27,6 +31,8 @@
     "name": "Ottoman Empire (Suleiman I)",
     "leaderName": "Suleiman I (The Magnificent)",
     "adjective": ["Ottoman"],
+    "outerColor": [0, 150, 0],
+    "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Magnificent Century",
     "uniques": [
@@ -39,6 +45,8 @@
     "name": "Ottoman Empire (Selim III)",
     "leaderName": "Selim III",
     "adjective": ["Ottoman"],
+    "outerColor": [0, 150, 0],
+    "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Permanent Embassies",
     "uniques": [
@@ -50,6 +58,8 @@
     "name": "Ottoman Empire (Bayezid II)",
     "leaderName": "Bayezid II (The Just)",
     "adjective": ["Ottoman"],
+    "outerColor": [0, 150, 0],
+    "innerColor": [255, 255, 255],
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Judicial Tolerance",
     "uniques": [
