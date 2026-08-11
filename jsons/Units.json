@@ -35,6 +35,7 @@
     "unitType": "Civilian",
     "uniques": [
       "Great Person - [War]",
+      "Invisible to non-adjacent units",
       "[+15]% Strength bonus for [Military] units within [1] tiles",
       "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
     ]
@@ -60,6 +61,7 @@
     "movement": 5,
     "religionSpreads": 3,
     "uniques": [
+      "Great Person - [Religion]",
       "Can spread religion"
     ]
   }
