@@ -19,7 +19,7 @@
     "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
-      "[+1] Movement <for [Land] [Military] units>",
+      "[+1] Movement <for [Land] units>",
       "[15]% Food is carried over after population increases [in all cities]",
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
       "[+10]% Production when constructing [Military] units [in all cities]"
@@ -75,7 +75,7 @@
       "[+30]% [Culture] <during a Golden Age>",
       "[+20]% [Gold] <during a Golden Age>",
       "[+2 Happiness] [in all cities] <during a Golden Age>",
-      "[Great Person] is earned [+25]% faster <during a Golden Age>"
+      "[+25]% Great Person generation [in all cities] <during a Golden Age>"
     ]
   },
   {
