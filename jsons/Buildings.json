@@ -3,17 +3,19 @@
     "name": "Cebhane-i Hümayun",
     "uniqueTo": "Ottoman Empire (Selim I)",
     "replaces": "Armory",
+    "cost": 130,
     "uniques": [
-      "[+15] XP for [Military] units",
-      "[-15]% maintenance costs for [Military] units"
+      "New [Military] units start with [15] XP [in this city]",
+      "[-15]% maintenance costs <for [Military] units>"
     ]
   },
   {
     "name": "Tophane-i Amire",
     "uniqueTo": "Ottoman Empire (Mehmed II)",
     "replaces": "Workshop",
+    "cost": 120,
     "uniques": [
-      "[+30]% Production when constructing [{Siege}] units",
+      "[+30]% Production when constructing [Siege] units [in this city]",
       "[+1 Science]",
       "[+2 Production]"
     ]
@@ -22,18 +24,20 @@
     "name": "Hasbahçe",
     "uniqueTo": "Ottoman Empire (Suleiman I)",
     "replaces": "Garden",
+    "cost": 120,
     "uniques": [
       "[+3 Culture]",
-      "[+25]% Great Person Generation in this city"
+      "[+25]% Great Person generation [in this city]"
     ]
   },
   {
     "name": "Mühendishane-i Berrî-i Hümâyûn",
     "uniqueTo": "Ottoman Empire (Selim III)",
     "replaces": "University",
+    "cost": 160,
     "uniques": [
       "[+2 Culture]",
-      "[+15] XP for [{Water}] units",
+      "New [Water] units start with [15] XP [in this city]",
       "[+33]% [Science] [in this city]",
       "[+2 Science]"
     ]
@@ -42,6 +46,7 @@
     "name": "Bayezid Külliyesi",
     "uniqueTo": "Ottoman Empire (Bayezid II)",
     "replaces": "Temple",
+    "cost": 100,
     "uniques": [
       "[+5 Faith]",
       "[+2 Food]",
