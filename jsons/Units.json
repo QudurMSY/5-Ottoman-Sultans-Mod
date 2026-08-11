@@ -4,6 +4,8 @@
     "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Knight",
     "unitType": "Mounted",
+    "cost": 120,
+    "requiredTech": "Chivalry",
     "uniques": [
       "Ignores terrain cost",
       "No movement cost to pillage"
@@ -14,6 +16,8 @@
     "uniqueTo": "Ottoman Empire - Mehmed II",
     "replaces": "Cannon",
     "unitType": "Siege",
+    "cost": 185,
+    "requiredTech": "Chemistry",
     "strength": 12,
     "rangedStrength": 26,
     "movement": 1,
@@ -48,6 +52,8 @@
     "uniqueTo": "Ottoman Empire - Bayezid II",
     "replaces": "Missionary",
     "unitType": "Civilian",
+    "cost": 200,
+    "costType": "Faith",
     "movement": 5,
     "religionSpreads": 3,
     "uniques": [
