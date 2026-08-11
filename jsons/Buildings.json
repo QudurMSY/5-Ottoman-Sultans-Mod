@@ -7,7 +7,6 @@
     "requiredTech": "Steel",
     "uniques": [
       "[15] XP for new [Military] units",
-      "New [Military] units start with [15] XP [in this city]",
       "[-15]% maintenance costs <for [Military] units>"
     ]
   },
@@ -17,7 +16,7 @@
     "replaces": "Workshop",
     "cost": 120,
     "requiredTech": "Metal Casting",
-    "production": 4,
+    "production": 2,
     "science": 1,
     "uniques": [
       "[+10]% Production [in this city]",
@@ -32,7 +31,6 @@
     "requiredTech": "Theology",
     "culture": 3,
     "uniques": [
-      "[+25]% Great Person generation [in this city]",
       "[+25]% Great Person generation [in this city]"
     ]
   },
@@ -46,7 +44,6 @@
     "science": 2,
     "uniques": [
       "[+33]% [Science] [in this city]",
-      "[+33]% [Science] [in this city]",
       "[+2 Science] from [Jungle] tiles [in this city]",
       "New [Water] units start with [15] XP [in this city]"
     ]
@@ -57,7 +54,7 @@
     "replaces": "Temple",
     "cost": 100,
     "requiredTech": "Philosophy",
-    "faith": 7,
+    "faith": 5,
     "uniques": [
       "[+2 Food]",
       "[+1 Culture]"
