@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Ottoman Empire (Selim I)",
+    "leaderName": "Selim I (The Grim)",
+    "adjective": ["Ottoman"],
+    "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
+    "uniqueName": "Conquests of Eight Years",
+    "uniques": [
+      "[+1] Movement <for [Military] units>",
+      "[-25]% Resistance length when capturing cities",
+      "[50]% less population lost when capturing cities"
+    ]
+  },
+  {
+    "name": "Ottoman Empire (Mehmed II)",
+    "leaderName": "Mehmed II (The Conqueror)",
+    "adjective": ["Ottoman"],
+    "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
+    "uniqueName": "Sahn-ı Seman",
+    "uniques": [
+      "[+1 Science] per [3] population [in all cities]",
+      "[+30]% Great Person Generation <for [Great Scientist] units>",
+      "[+30]% Great Person Generation <for [Great Engineer] units>"
+    ]
+  },
+  {
+    "name": "Ottoman Empire (Suleiman I)",
+    "leaderName": "Suleiman I (The Magnificent)",
+    "adjective": ["Ottoman"],
+    "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
+    "uniqueName": "Magnificent Century",
+    "uniques": [
+      "[+50]% Golden Age length",
+      "[+30]% [Culture] <during a Golden Age>",
+      "[+1] Influence per turn with City-States <during a Golden Age>"
+    ]
+  },
+  {
+    "name": "Ottoman Empire (Selim III)",
+    "leaderName": "Selim III",
+    "adjective": ["Ottoman"],
+    "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
+    "uniqueName": "Permanent Embassies",
+    "uniques": [
+      "Base Influence with City-States is [10]",
+      "[-50]% Influence decay with City-States"
+    ]
+  },
+  {
+    "name": "Ottoman Empire (Bayezid II)",
+    "leaderName": "Bayezid II (The Just)",
+    "adjective": ["Ottoman"],
+    "cities": ["Istanbul", "Edirne", "Bursa", "Izmir", "Ankara", "Konya", "Adana", "Trabzon", "Erzurum", "Diyarbakir"],
+    "uniqueName": "Judicial Tolerance",
+    "uniques": [
+      "[+25]% [Faith]",
+      "[+1 Happiness] per city following your religion"
+    ]
+  }
+]
