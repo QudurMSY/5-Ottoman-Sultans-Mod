@@ -20,11 +20,10 @@
     "uniqueName": "Conquests of Eight Years",
     "uniques": [
       "[+1] Movement <for [Military] units>",
-      "Free [Courthouse] appears in captured cities",
-      "Free [Aqueduct] appears in captured cities",
+      "Gain a free [Courthouse] [in annexed cities]",
+      "Gain a free [Aqueduct] [in annexed cities]",
       "[+10]% Production when constructing [Military] units [in all cities]",
-      "[+100]% weight to [Military] for AI decisions",
-      "[+100]% weight to [Expansion] for AI decisions"
+      "[+100]% weight to [Military] units for AI decisions"
     ]
   },
   {
@@ -48,10 +47,9 @@
     "uniqueName": "Sahn-ı Seman",
     "uniques": [
       "[+1 Science] per [3] population [in all cities]",
-      "[+30]% Great Person Generation <for [Great Scientist] units>",
-      "[+30]% Great Person Generation <for [Great Engineer] units>",
-      "[+100]% weight to [Science] for AI decisions",
-      "[+100]% weight to [Expansion] for AI decisions"
+      "[Great Scientist] is earned [30]% faster",
+      "[Great Engineer] is earned [30]% faster",
+      "[+100]% weight to [Science] buildings for AI decisions"
     ]
   },
   {
@@ -77,8 +75,7 @@
       "[+50]% Golden Age length",
       "[+30]% [Culture] <during a Golden Age>",
       "[Great Artist] is earned [25]% faster",
-      "[+100]% weight to [Culture] for AI decisions",
-      "[+100]% weight to [Diplomacy] for AI decisions"
+      "[+100]% weight to [Culture] buildings for AI decisions"
     ]
   },
   {
@@ -103,8 +100,7 @@
     "uniques": [
       "Resting point for Influence with City-States is increased by [10]",
       "[-50]% City-State Influence degradation",
-      "[+100]% weight to [Diplomacy] for AI decisions",
-      "[+100]% weight to [Economy] for AI decisions"
+      "[+100]% weight to [Gold] buildings for AI decisions"
     ]
   },
   {
@@ -128,9 +124,9 @@
     "uniqueName": "Judicial Tolerance",
     "uniques": [
       "[+25]% [Faith]",
-      "[+1 Happiness] per city following your religion",
-      "[+100]% weight to [Culture] for AI decisions",
-      "[+100]% weight to [Religion] for AI decisions"
+      "[+1 Happiness] for each city following this religion",
+      "[+100]% weight to [Culture] buildings for AI decisions",
+      "[+100]% weight to [Faith] buildings for AI decisions"
     ]
   }
 ]
