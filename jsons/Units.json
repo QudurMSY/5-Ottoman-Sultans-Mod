@@ -4,13 +4,14 @@
     "uniqueTo": "Ottoman Empire - Selim I",
     "replaces": "Knight",
     "unitType": "Mounted",
-    "movement": 3,
-    "strength": 18,
+    "movement": 4,
+    "strength": 20,
     "cost": 120,
     "requiredTech": "Chivalry",
     "obsoleteTech": "Military Science",
     "upgradesTo": "Cavalry",
     "requiredResource": "Horses",
+    "attackSound": "horse",
     "uniques": [
       "Can move after attacking",
       "No defensive terrain bonus",
@@ -25,13 +26,15 @@
     "uniqueTo": "Ottoman Empire - Mehmed II",
     "replaces": "Cannon",
     "unitType": "Siege",
-    "movement": 1,
+    "movement": 2,
     "strength": 14,
-    "rangedStrength": 30,
+    "rangedStrength": 26,
+    "range": 2,
     "cost": 185,
     "requiredTech": "Chemistry",
-    "upgradesTo": "Artillery",
     "obsoleteTech": "Dynamite",
+    "upgradesTo": "Artillery",
+    "attackSound": "cannon",
     "uniques": [
       "[+200]% Strength <vs cities> <when attacking>",
       "No defensive terrain bonus",
@@ -45,17 +48,17 @@
     "uniqueTo": "Ottoman Empire - Suleiman I",
     "replaces": "Great General",
     "unitType": "Civilian",
-    "movement": 2,
+    "movement": 3,
     "uniques": [
+      "[+15]% Strength bonus for [Military] units within [2] tiles",
       "Empire enters a [8]-turn Golden Age <by consuming this unit>",
       "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-      "Can be earned through combat",
+      "Can be earned through combat <for [Land] units>",
       "Is part of Great Person group [General]",
+      "[This Unit] gets a name from the [General] group",
       "Great Person - [War]",
       "Unbuildable",
-      "Uncapturable",
-      "[+15]% Strength bonus for [Military] units within [1] tiles",
-      "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
+      "Uncapturable"
     ]
   },
   {
@@ -63,15 +66,16 @@
     "uniqueTo": "Ottoman Empire - Selim III",
     "replaces": "Great Merchant",
     "unitType": "Civilian",
-    "movement": 2,
+    "movement": 3,
     "uniques": [
       "Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
+      "[+100]% Gold from Great Merchant trade missions",
       "Can instantly construct a [Customs house] improvement <by consuming this unit>",
-      "Is part of Great Person group [Merchant]",
+      "Is part of Great Person group [Great Person]",
+      "[This Unit] gets a name from the [Merchant] group",
       "Great Person - [Gold]",
       "Unbuildable",
-      "Uncapturable",
-      "[+100]% Gold from Great Merchant trade missions"
+      "Uncapturable"
     ]
   },
   {
@@ -80,12 +84,10 @@
     "replaces": "Missionary",
     "unitType": "Civilian",
     "movement": 5,
-    "cost": 200,
-    "costType": "Faith",
     "religiousStrength": 1000,
     "uniques": [
       "Can Spread Religion <for [4] movement> <[3] times> <after which this unit is consumed>",
-      "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+      "May enter foreign tiles without open borders, but loses [150] religious strength each turn it ends there",
       "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
       "[-1] Sight",
       "Unbuildable",

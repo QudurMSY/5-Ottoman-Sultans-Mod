@@ -9,9 +9,8 @@
     "requiredBuilding": "Barracks",
     "requiredTech": "Steel",
     "uniques": [
-      "New [Military] units start with [15] XP [in this city]",
-      "Destroyed when the city is captured",
-      "[-15]% maintenance costs <for [Military] units>"
+      "New [Military] units start with [20] XP [in this city]",
+      "Destroyed when the city is captured"
     ]
   },
   {
@@ -24,7 +23,7 @@
     "science": 1,
     "specialistSlots": {"Engineer": 1},
     "hurryCostModifier": 25,
-    "percentStatBonus": {"production": 10},
+    "percentStatBonus": {"production": 15},
     "requiredTech": "Metal Casting",
     "uniques": [
       "[+30]% Production when constructing [Siege] units [in this city]"
@@ -70,7 +69,7 @@
     "food": 2,
     "culture": 1,
     "requiredBuilding": "Shrine",
-    "maintenance": 2,
+    "maintenance": 1,
     "hurryCostModifier": 25,
     "requiredTech": "Philosophy",
     "uniques": [
